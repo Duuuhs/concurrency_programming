@@ -58,7 +58,7 @@ public class ConcurrencyTest {
          * count    serial()  concurrency()
          * 1000w      23ms        51ms
          *  1e       196ms       200ms
-         *  10e     1554ms      1902ms
+         *  10e     1902ms      1554ms
          */
     }
 }
